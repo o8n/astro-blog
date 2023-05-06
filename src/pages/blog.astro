@@ -1,4 +1,8 @@
 ---
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import Navigation from '../components/Navigation.astro';
+import '../styles/global.css'
 ---
 
 <html lang="en">
@@ -10,9 +14,13 @@
 		<title>blog - o8n.site</title>
 	</head>
 	<body>
-    <a href="/">Home</a>
-    <a href="/about/">About</a>
-    <h1>Blog</h1>
-    <a href="https://o8n.hatenablog.com/" target="_blank">https://o8n.hatenablog.com/</a>
+    <Navigation/>
+    <ul>
+      <li><a href="/posts/post-1/">Post 1</a></li>
+    </ul>
+    <Footer/>
+    <script>
+      import "../scripts/menu.js";
+		</script>
 	</body>
 </html>
