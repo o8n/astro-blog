@@ -1,6 +1,6 @@
 ---
 title: 'My First Blog Post'
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: '../../layouts/MarkdownPostLayout.astro'
 pubDate: 2023-05-06
 description: 'This is the first post of my new Astro blog.'
 author: 'masa'
@@ -8,6 +8,7 @@ image:
     url: 'https://full-count.jp/wp-content/uploads/2023/03/30160306/20230330_kyoda2_ay.jpg' 
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
+draft: false
 ---
 
 ## What I've accomplished
