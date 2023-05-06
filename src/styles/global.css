@@ -79,5 +79,13 @@ h1 {
   .hamburger {
     display: none;
   }
+}
 
+html.dark {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.dark .nav-links a {
+  color: #fff;
 }
