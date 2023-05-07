@@ -1,13 +1,12 @@
 ---
 title: "つんくさんのBotを作る"
 pubDate: 2020-05-31
-draft: true
+draft: false
 share: true
-images: ["static/images/post/tsunku.png"]
 tags: ["Ruby", "Python", "Heroku", "hobby"]
 ---
 
-こんにちは、ハロヲタです。唐突ですが、つんくさんのツイートがスキちゃんです。例えば
+唐突ですが、つんくさんのツイートがスキちゃんです。例えば
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ワンちゃんならシッポグルグルやけどね。 <a href="https://t.co/Jx55aKIXm1">https://t.co/Jx55aKIXm1</a></p>&mdash; つんく♂ (@tsunkuboy) <a href="https://twitter.com/tsunkuboy/status/1264949286724341765?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
