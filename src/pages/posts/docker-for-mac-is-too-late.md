@@ -3,6 +3,7 @@ title: "DockerforMacのファイルI/Oの処理速度が遅く感じる"
 pubDate: 2020-04-02
 draft: false
 tags: ["docker"]
+layout: ../../layouts/MarkdownPostLayout.astro
 ---
 
 Docker for Mac、使い物になっていますか。私はなっていません。
