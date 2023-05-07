@@ -1,8 +1,7 @@
 ---
-const { title, url } = Astro.props;
+const { title, url, pubDate } = Astro.props;
 ---
 <li>
-  <a href={url}>
-    {title}
-  </a>
+  <a href={url} style={{ display: "inline-block" }}>{title}</a>
+  <p style={{ display: "inline-block", marginLeft: "0.5em" }}>{pubDate}</p>
 </li>
