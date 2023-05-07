@@ -1,6 +1,6 @@
 ---
 title: "聴いてる地上波ラジオ番組（2021年上半期）"
-pubDate: 2021-05-17T17:51:30+09:00
+pubDate: 2021-05-17
 draft: true
 share: true
 images: ["static/images/post/blog.png"]

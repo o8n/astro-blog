@@ -1,10 +1,8 @@
 ---
 title: "RubyにはString#to_aがない"
-pubDate: 2020-04-06T10:00:47+09:00
+pubDate: 2020-04-06
 draft: false
-share: true
-tags: ['Ruby']
-images: ["static/images/post/okamotchan.png"]
+tags: ["Ruby"]
 layout: ../../layouts/MarkdownPostLayout.astro
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "自分が考える新卒エンジニアの就職活動"
-pubDate: 2020-05-01T14:34:50+09:00
+pubDate: 2020-05-01
 draft: true
 share: true
 images: ["static/images/post/blog.png"]

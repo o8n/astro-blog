@@ -1,7 +1,7 @@
 ---
 title: "Check xcode-select when you cannot install db gem (macOS)"
 layout: '../../layouts/MarkdownPostLayout.astro'
-pubDate: 2020-04-25T18:04:14+09:00
+pubDate: 2020-04-25
 draft: false
 share: true
 tags: ["Error"]

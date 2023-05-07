@@ -1,9 +1,7 @@
 ---
 title: "[Ruby] openssl 1.0.0 LoadError"
-pubDate: 2020-09-08T21:49:28+09:00
+pubDate: 2020-09-08
 draft: false
-share: true
-images: ["static/images/post/blog.png"]
 tags: ["Ruby", "Rails"]
 layout: ../../layouts/MarkdownPostLayout.astro
 ---

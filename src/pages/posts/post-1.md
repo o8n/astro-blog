@@ -8,7 +8,7 @@ image:
     url: 'https://full-count.jp/wp-content/uploads/2023/03/30160306/20230330_kyoda2_ay.jpg' 
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
-draft: false
+draft: true
 ---
 
 ## What I've accomplished

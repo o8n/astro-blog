@@ -1,10 +1,10 @@
 ---
 title: "つんくさんのBotを作る"
-pubDate: 2020-05-31T01:55:25+09:00
+pubDate: 2020-05-31
 draft: true
 share: true
 images: ["static/images/post/tsunku.png"]
-tags: ['Ruby', 'Python', 'Heroku', 'hobby']
+tags: ["Ruby", "Python", "Heroku", "hobby"]
 ---
 
 こんにちは、ハロヲタです。唐突ですが、つんくさんのツイートがスキちゃんです。例えば

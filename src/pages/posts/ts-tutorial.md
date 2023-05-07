@@ -1,9 +1,8 @@
 ---
-title: "TypeScriptに入門する"
-pubDate: 2020-05-05T18:00:45+09:00
+title: "TypeScript入門する"
+pubDate: 2020-05-05
 draft: false
-share: true
-tags: ['TypeScript', 'React']
+tags: ["TypeScript", "React"]
 layout: ../../layouts/MarkdownPostLayout.astro
 ---
 

@@ -1,13 +1,10 @@
 ---
-title: "SQLを理解したい"
-pubDate: 2020-04-25T00:44:37+09:00
+title: "20200425 sql"
+pubDate: 2020-04-25
 draft: false
-share: true
-tags: ['SQL']
+tags: ["SQL"]
 layout: ../../layouts/MarkdownPostLayout.astro
 ---
-
-今までSQLインジェクションのこと考えたことなかったです
 
 Ruby on Railsを機にエンジニア人生をスタートしてると、ActiveRecordのおかげで生SQLとかDBについて全然基本知識がないまま大人になってしまいます。
 

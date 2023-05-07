@@ -2,7 +2,7 @@
 title: "2020年に読んだ本"
 pubDate: 2020-12-20
 draft: false
-tags: ["books"]
+tags: ["read-books"]
 layout: ../../layouts/MarkdownPostLayout.astro
 ---
 
