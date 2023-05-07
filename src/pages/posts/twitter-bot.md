@@ -4,6 +4,7 @@ pubDate: 2020-05-31
 draft: false
 share: true
 tags: ["Ruby", "Python", "Heroku", "hobby"]
+layout: ../../layouts/MarkdownPostLayout.astro
 ---
 
 唐突ですが、つんくさんのツイートがスキちゃんです。例えば
