@@ -1,4 +1,37 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import '../styles/global.css';
+const pageTitle = "o8n";
+const identity = {
+  Name: "Masahiro Okamoto",
+  country: "Tokyo/Japan",
+  occupation: "Software Engineer",
+  hobbies: ["Reading books","Baseball","Hotspring"],
+};
+const skills = ["Ruby", "React", "PHP", "Python", "Java", "Astro", "Writing Docs"];
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <p>Here are a few facts about me:</p>
+  <ul>
+    <li>My name is {identity.Name}.</li>
+    <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
+    <!-- {identity.hobbies.length >= 2 && 
+      // <li>my hobbies are: {identity.hobbies[0]} and {identity.hobbies[1]}</li>
+    <li>My hobbies are</li>-->
+  </ul>
+  <p>My hobbies are</p>
+  <ul>
+    {identity.hobbies.map((hobby) => <li class="hobby">{hobby}</li>)}
+  </ul>
+
+  <p>My skills are:</p>
+  <ul>
+    {skills.map((skill) => <li class="skill">{skill}</li>)}
+  </ul>
+</BaseLayout>
+
+<!-- ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 const pageTitle = "o8n";
 import Greeting from '../components/Greeting.jsx';
@@ -6,4 +39,4 @@ import Greeting from '../components/Greeting.jsx';
 
 <BaseLayout pageTitle={pageTitle}>
   <Greeting client:load messages={["Hej", "Hallo", "Hola", "Habari", "你好", "こんにちは"]} />
-</BaseLayout>
+</BaseLayout> -->
